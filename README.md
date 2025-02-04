@@ -5,9 +5,10 @@
 <p1>
   Sou estudande de SI na faculdade inteli, nao tenho tanta experiencia em códigos.
   <p1/>
-    <break>
-      
-    </break>
+    <br>
+    <br>
+    
+    
  <p2> 
  Gosto bastante de videogames e música
  <p2/>  
