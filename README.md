@@ -1,6 +1,14 @@
-## Hi there 👋
+<t1>
+  olá este e meu repositório
+<t1/>
 
-<!--
+<p1>
+  Sou estudande de SI na faculdade inteli, nao tenho tanta experiencia em códigos.
+  <p1/>
+ <p2> 
+ Gosto bastante de videogames e música
+ <p2/>  
+<!--go
 **nicholasmillani/nicholasmillani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +19,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ..
 - ⚡ Fun fact: ...
 -->
