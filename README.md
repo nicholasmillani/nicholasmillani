@@ -1,5 +1,5 @@
 <t1>
-  olá este e meu repositório
+  olá este é meu repositório
 <t1/>
 
 <p1>
@@ -10,7 +10,7 @@
     
     
  <p2> 
- Gosto bastante de videogames e música
+ Gosto bastante de videogames e música.
  <p2/>  
 <!--go
 **nicholasmillani/nicholasmillani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
