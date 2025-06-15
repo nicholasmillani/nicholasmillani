@@ -3,7 +3,7 @@
 <t1/>
 
 <p1>
-  Sou estudande de SI na faculdade inteli, nao tenho tanta experiencia em códigos.
+  Sou estudande de Sistemas de Informação no Instituto de Tecnologia e Liderança(INTELI).
   <p1/>
     <br>
     <br>
